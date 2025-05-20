@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admission Offer Letter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        header, footer {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .content {
+            max-width: 800px;
+            margin: auto;
+        }
+        .logo {
+            width: 150px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://cis-india.org/Christuniversitylogocolour.jpg/view" alt="Christ University Logo" class="logo">
+        <h2>CHRIST (Deemed to be University)</h2>
+        <p>Yeshwanthpur Campus<br>
+        Nagasandra, Near Tumkur Road,<br>
+        Bangalore - 560073, Karnataka, India<br>
+        Phone: 080-6989 6666 / 080-6989 6667<br>
+        Email: admissions.yeshwanthpur@christuniversity.in<br>
+        Website: <a href="https://www.christuniversity.in">www.christuniversity.in</a></p>
+    </header>
+
+    <div class="content">
+        <p><strong>Date:</strong> May 20, 2025</p>
+
+        <p><strong>Subject:</strong> Admission Offer for Doctor of Psychology Program – August 2025 Intake</p>
+
+        <p>Dear <strong>Aksheyaa Aswanthy Visvalingam</strong>,<br>
+        D/O Dharshini Visvalingam</p>
+
+        <p>We are pleased to inform you that you have been selected for admission to the <strong>Doctor of Psychology</strong> program at <strong>CHRIST (Deemed to be University), Yeshwanthpur Campus</strong>, commencing in August 2025.</p>
+
+        <p>Your exceptional performance in the entrance examination, placing you in the <strong>top 5%</strong> of all candidates, has earned you a <strong>45% scholarship</strong> on the tuition fees for the duration of the program.</p>
+
+        <p>Please note that this offer is <strong>provisional</strong>, subject to the verification of your academic credentials and fulfillment of all admission requirements as stipulated by the university.</p>
+
+        <p>To confirm your acceptance of this offer, kindly complete the enrollment formalities and remit the requisite fees by <strong>[Insert Deadline Date]</strong>. Detailed instructions regarding the admission process, fee structure, and required documentation will be communicated to you separately.</p>
+
+        <p>We congratulate you on your achievement and look forward to welcoming you to our academic community.</p>
+
+        <p>Sincerely,<br>
+        <strong>Admissions Office</strong><br>
+        CHRIST (Deemed to be University)<br>
+        Yeshwanthpur Campus</p>
+    </div>
+
+    <footer>
+        <p>CHRIST (Deemed to be University), Yeshwanthpur Campus<br>
+        Nagasandra, Near Tumkur Road, Bangalore - 560073, Karnataka, India<br>
+        Phone: 080-6989 6666 / 080-6989 6667<br>
+        Email: admissions.yeshwanthpur@christuniversity.in<br>
+        Website: <a href="https://www.christuniversity.in">www.christuniversity.in</a></p>
+    </footer>
+</body>
+</html>
